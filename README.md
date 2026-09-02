@@ -106,3 +106,54 @@ Exploring
 ├── AI Integration
 ├── Data Structures & Algorithms
 └── System Design
+
+## 🎯 My Development Journey
+
+```text
+B.Sc. Computer Science
+        ↓
+    MCA Student
+        ↓
+ Web Development
+        ↓
+   MERN Stack
+        ↓
+AI-Powered Applications
+        ↓
+🚀 Full Stack Developer
+💡 What I Like Building
+🤖 AI-powered applications
+🌐 Full Stack Web Applications
+⚡ Productivity tools
+☁️ API-based applications
+🎨 Interactive user interfaces
+💻 Experimental and innovative web projects
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhan-1212s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-1212s&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=subhan-1212s&theme=tokyonight&hide_border=true" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-1212s&theme=tokyo-night&hide_border=true&area=true" /> </div>
+🧠 Currently Improving
+💻 Programming
+   └── JavaScript • C • C++
+
+🌐 Web Development
+   └── React • Node.js • Express • MongoDB
+
+🤖 AI
+   └── AI Integration • AI-powered Applications
+
+🧩 Problem Solving
+   └── DSA • Logical Thinking • Coding
+
+🏗️ Software Development
+   └── APIs • Git • GitHub • Project Architecture
+📫 Connect With Me
+<div align="center"> <a href="https://github.com/subhan-1212s"> <img src="https://img.shields.io/badge/GitHub-subhan--1212s-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohamedsubhan35/"> <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Subhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
+<div align="center">
+🚀 Build. Learn. Improve. Repeat.
+
+⭐ Thanks for visiting my profile!
+
+</div> ```
