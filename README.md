@@ -1,301 +1,333 @@
-<!-- ===================== DEVELOPMENT JOURNEY ===================== -->
+<!-- ========================================================= -->
+<!--                  DEVELOPMENT JOURNEY                      -->
+<!-- ========================================================= -->
 
 <h2 align="center">🚀 My Development Journey</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
+
+<br>
+
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="16%">
 
-🎓<br>
-<b>B.Sc.</b><br>
-Computer Science
-
+<td align="center" width="20%">
+<h3>🎓</h3>
+<b>Computer Science</b><br>
+<sub>B.Sc.</sub>
 </td>
 
-<td align="center" width="4%">→</td>
+<td align="center" width="5%">→</td>
 
-<td align="center" width="16%">
-
-🎓<br>
+<td align="center" width="20%">
+<h3>🎓</h3>
 <b>MCA</b><br>
-Student
-
+<sub>Currently Pursuing</sub>
 </td>
 
-<td align="center" width="4%">→</td>
+<td align="center" width="5%">→</td>
 
-<td align="center" width="16%">
-
-🌐<br>
-<b>Web</b><br>
-Development
-
+<td align="center" width="20%">
+<h3>🌐</h3>
+<b>Web Development</b><br>
+<sub>Modern Applications</sub>
 </td>
 
-<td align="center" width="4%">→</td>
+<td align="center" width="5%">→</td>
 
-<td align="center" width="16%">
-
-⚛️<br>
-<b>MERN</b><br>
-Stack
-
+<td align="center" width="20%">
+<h3>⚛️</h3>
+<b>MERN Stack</b><br>
+<sub>Full Stack Development</sub>
 </td>
 
-<td align="center" width="4%">→</td>
+<td align="center" width="5%">→</td>
 
-<td align="center" width="16%">
-
-🤖<br>
-<b>AI</b><br>
-Integration
-
-</td>
-
-<td align="center" width="4%">→</td>
-
-<td align="center" width="16%">
-
-💻<br>
-<b>Full Stack</b><br>
-Developer
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ===================== WHAT I BUILD ===================== -->
-
-<h2 align="center">💡 What I Build</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🤖<br>
+<td align="center" width="20%">
+<h3>🤖</h3>
 <b>AI Applications</b><br>
-<sub>Intelligent & useful digital solutions</sub>
-
+<sub>Intelligent Solutions</sub>
 </td>
 
-<td align="center" width="25%">
-
-🌐<br>
-<b>Full Stack Apps</b><br>
-<sub>Modern end-to-end web applications</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-⚡<br>
-<b>Productivity Tools</b><br>
-<sub>Tools designed for better workflows</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-🎨<br>
-<b>Modern Interfaces</b><br>
-<sub>Clean & interactive user experiences</sub>
-
-</td>
 </tr>
 </table>
 
 </div>
 
-<br>
+---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ========================================================= -->
+<!--                     FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🔥 Featured Projects</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subhan-1212s&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-1212s&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="175"/>
-
-</div>
+<p align="center">
+A collection of projects where I experiment, learn, and turn ideas into working products.
+</p>
 
 <br>
 
-<!-- ===================== STREAK ===================== -->
+<table>
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=subhan-1212s&theme=tokyonight&hide_border=true&mode=weekly" />
+<h3 align="center">🤖 AI Smart Auction Platform</h3>
 
-</div>
+<p align="center">
+  <img src="https://placehold.co/800x450/0d1117/ffffff?text=AI+Smart+Auction+Platform" width="100%" />
+</p>
 
-<br>
+<p align="center">
+An intelligent auction platform designed to bring AI-powered features into the online auction experience.
+</p>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Application-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-6f42c1?style=flat-square" />
+</p>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<p align="center">
+  <a href="https://github.com/subhan-1212s">
+    <b>View Project →</b>
+  </a>
+</p>
 
-<div align="center">
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-1212s&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="95%"/>
+<td width="50%" valign="top">
 
-</div>
+<h3 align="center">🎯 FocusFlow AI</h3>
 
-<br>
+<p align="center">
+  <img src="https://placehold.co/800x450/0d1117/ffffff?text=FocusFlow+AI" width="100%" />
+</p>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+<p align="center">
+An AI-powered productivity concept focused on helping users stay focused and improve their digital workflow.
+</p>
 
-<h2 align="center">🧠 Current Focus</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Productivity-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Browser%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/subhan-1212s">
+    <b>View Project →</b>
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🖥️ Moon OS</h3>
+
+<p align="center">
+  <img src="https://placehold.co/800x450/0d1117/ffffff?text=Moon+OS" width="100%" />
+</p>
+
+<p align="center">
+A browser-based operating system experience combining desktop-style interaction with modern web technologies.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web%20Application-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX-6f42c1?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/subhan-1212s">
+    <b>View Project →</b>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ Sky Cast</h3>
+
+<p align="center">
+  <img src="https://placehold.co/800x450/0d1117/ffffff?text=Sky+Cast" width="100%" />
+</p>
+
+<p align="center">
+A clean weather application built around real-time weather information and API-based data.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/API%20Integration-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Weather-00A8E8?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/subhan-1212s">
+    <b>View Project →</b>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    ENGINEERING SKILLS                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">⚙️ Engineering Skills</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-⚛️<br>
-<b>Frontend</b><br>
-<sub>React • JavaScript • UI/UX</sub>
+<td align="center" width="25%">
+<h3>🎨 Frontend</h3>
 
-</td>
-
-<td align="center" width="33%">
-
-⚙️<br>
-<b>Backend</b><br>
-<sub>Node.js • Express • APIs</sub>
+React<br>
+JavaScript<br>
+HTML5<br>
+CSS3<br>
+Responsive UI
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
+<h3>⚙️ Backend</h3>
 
-🗄️<br>
-<b>Database</b><br>
-<sub>MongoDB • Data Modeling</sub>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🤖<br>
-<b>AI Integration</b><br>
-<sub>AI-powered applications</sub>
+Node.js<br>
+Express.js<br>
+REST APIs<br>
+Server Logic<br>
+Authentication
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
+<h3>🗄️ Database</h3>
 
-🧩<br>
-<b>Problem Solving</b><br>
-<sub>DSA • Logic • Coding</sub>
+MongoDB<br>
+Data Modeling<br>
+CRUD Operations<br>
+Database Integration
+
+</td>
+
+<td align="center" width="25%">
+<h3>🛠️ Development</h3>
+
+Git<br>
+GitHub<br>
+VS Code<br>
+API Integration<br>
+Debugging
 
 </td>
 
-<td align="center">
-
-🏗️<br>
-<b>Engineering</b><br>
-<sub>Architecture • Git • APIs</sub>
-
-</td>
 </tr>
 </table>
 
 </div>
 
-<br>
+---
 
-<!-- ===================== DEVELOPMENT PHILOSOPHY ===================== -->
+<!-- ========================================================= -->
+<!--                     CURRENT FOCUS                          -->
+<!-- ========================================================= -->
 
-<h2 align="center">⚡ Development Philosophy</h2>
+<h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
 
-💭 <b>Think</b>
-
+<td align="center" width="33%">
+<h3>⚛️ MERN Stack</h3>
+Building scalable and responsive full-stack applications.
 </td>
-<td align="center">→</td>
-<td align="center">
 
-🧩 <b>Build</b>
-
+<td align="center" width="33%">
+<h3>🤖 AI Integration</h3>
+Exploring practical ways to integrate AI into modern applications.
 </td>
-<td align="center">→</td>
-<td align="center">
 
-🧪 <b>Test</b>
-
+<td align="center" width="33%">
+<h3>🧩 Problem Solving</h3>
+Improving DSA, logical thinking, and software engineering skills.
 </td>
-<td align="center">→</td>
-<td align="center">
 
-🚀 <b>Improve</b>
-
-</td>
-<td align="center">→</td>
-<td align="center">
-
-📈 <b>Grow</b>
-
-</td>
 </tr>
 </table>
 
-<br>
-
-<b>"Build things that solve real problems."</b>
-
 </div>
 
-<br>
+---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ========================================================= -->
+<!--                    WHAT I BUILD                            -->
+<!-- ========================================================= -->
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">💡 What I Love Building</h2>
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/subhan-1212s">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohamedsubhan35/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+🤖 AI-powered applications &nbsp; • &nbsp;
+🌐 Full Stack platforms &nbsp; • &nbsp;
+⚡ Productivity tools
 
 <br><br>
 
-<a href="https://github.com/subhan-1212s">
-<img src="https://komarev.com/ghpvc/?username=subhan-1212s&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-</a>
+🎨 Interactive interfaces &nbsp; • &nbsp;
+☁️ API-driven applications &nbsp; • &nbsp;
+💻 Innovative web experiences
 
-</div>
+</p>
 
-<br>
+---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ========================================================= -->
+<!--                    LEARNING ROADMAP                        -->
+<!-- ========================================================= -->
+
+<h2 align="center">🌱 Learning & Growing</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" width="100%"/>
-
-### 🚀 Build • Learn • Improve • Repeat
-
-<sub>Thanks for visiting my profile.</sub>
-
-</div>
+```text
+                    CURRENT
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   MERN STACK    │
+              └────────┬────────┘
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+        🤖 AI / APIs          🧩 DSA
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+                🏗️ SYSTEM DESIGN
+                       │
+                       ▼
+               🚀 FULL STACK
+                DEVELOPMENT
