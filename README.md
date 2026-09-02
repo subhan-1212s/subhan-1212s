@@ -1,159 +1,301 @@
+<!-- ===================== DEVELOPMENT JOURNEY ===================== -->
+
+<h2 align="center">🚀 My Development Journey</h2>
+
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Subhan
+<table>
+<tr>
+<td align="center" width="16%">
 
-### 💻 MCA Student | Aspiring MERN Full Stack Developer | AI Enthusiast
+🎓<br>
+<b>B.Sc.</b><br>
+Computer Science
 
-I build modern web applications, AI-powered solutions, and creative digital experiences.
+</td>
+
+<td align="center" width="4%">→</td>
+
+<td align="center" width="16%">
+
+🎓<br>
+<b>MCA</b><br>
+Student
+
+</td>
+
+<td align="center" width="4%">→</td>
+
+<td align="center" width="16%">
+
+🌐<br>
+<b>Web</b><br>
+Development
+
+</td>
+
+<td align="center" width="4%">→</td>
+
+<td align="center" width="16%">
+
+⚛️<br>
+<b>MERN</b><br>
+Stack
+
+</td>
+
+<td align="center" width="4%">→</td>
+
+<td align="center" width="16%">
+
+🤖<br>
+<b>AI</b><br>
+Integration
+
+</td>
+
+<td align="center" width="4%">→</td>
+
+<td align="center" width="16%">
+
+💻<br>
+<b>Full Stack</b><br>
+Developer
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
+<!-- ===================== WHAT I BUILD ===================== -->
+
+<h2 align="center">💡 What I Build</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🤖<br>
+<b>AI Applications</b><br>
+<sub>Intelligent & useful digital solutions</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🌐<br>
+<b>Full Stack Apps</b><br>
+<sub>Modern end-to-end web applications</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+⚡<br>
+<b>Productivity Tools</b><br>
+<sub>Tools designed for better workflows</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+🎨<br>
+<b>Modern Interfaces</b><br>
+<sub>Clean & interactive user experiences</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=subhan-1212s&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-1212s&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="175"/>
+
+</div>
+
+<br>
+
+<!-- ===================== STREAK ===================== -->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=subhan-1212s&theme=tokyonight&hide_border=true&mode=weekly" />
+
+</div>
+
+<br>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-1212s&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<h2 align="center">🧠 Current Focus</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+⚛️<br>
+<b>Frontend</b><br>
+<sub>React • JavaScript • UI/UX</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+⚙️<br>
+<b>Backend</b><br>
+<sub>Node.js • Express • APIs</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+🗄️<br>
+<b>Database</b><br>
+<sub>MongoDB • Data Modeling</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🤖<br>
+<b>AI Integration</b><br>
+<sub>AI-powered applications</sub>
+
+</td>
+
+<td align="center">
+
+🧩<br>
+<b>Problem Solving</b><br>
+<sub>DSA • Logic • Coding</sub>
+
+</td>
+
+<td align="center">
+
+🏗️<br>
+<b>Engineering</b><br>
+<sub>Architecture • Git • APIs</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ===================== DEVELOPMENT PHILOSOPHY ===================== -->
+
+<h2 align="center">⚡ Development Philosophy</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+💭 <b>Think</b>
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+🧩 <b>Build</b>
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+🧪 <b>Test</b>
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+🚀 <b>Improve</b>
+
+</td>
+<td align="center">→</td>
+<td align="center">
+
+📈 <b>Grow</b>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<b>"Build things that solve real problems."</b>
+
+</div>
+
+<br>
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+
 <a href="https://github.com/subhan-1212s">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/mohamedsubhan35/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/subhan-1212s">
+<img src="https://komarev.com/ghpvc/?username=subhan-1212s&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </a>
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+<!-- ===================== FOOTER ===================== -->
 
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)**
-- 💻 Aspiring **MERN Full Stack Developer**
-- 🤖 Interested in **Artificial Intelligence and AI-powered applications**
-- 🌐 Passionate about building modern and interactive web applications
-- 🚀 Learning by building real-world projects
-- 📚 Continuously improving my development and problem-solving skills
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Programming & Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
-</p>
-
-### ⚛️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Smart Auction Platform
-
-An AI-powered auction platform focused on creating a modern and interactive auction experience.
-
-**Areas:** AI • Web Development • Auction Platform
-
----
-
-### 🎯 FocusFlow AI
-
-An AI-powered productivity browser extension designed to help users improve focus and manage their productivity.
-
-**Areas:** AI • Productivity • Browser Extension
-
----
-
-### 🖥️ Moon OS
-
-A web-based operating system experience that brings an OS-style interface and interactions into the browser.
-
-**Areas:** Web Development • UI/UX • JavaScript
-
----
-
-### ☁️ Sky Cast
-
-A modern weather application designed to provide weather information through a clean and user-friendly interface.
-
-**Areas:** JavaScript • API Integration • Weather
-
----
-
-## 🌱 Currently Learning
-
-```text
-MERN Stack
-├── MongoDB
-├── Express.js
-├── React
-└── Node.js
-
-Exploring
-├── Artificial Intelligence
-├── AI Integration
-├── Data Structures & Algorithms
-└── System Design
-
-## 🎯 My Development Journey
-
-```text
-B.Sc. Computer Science
-        ↓
-    MCA Student
-        ↓
- Web Development
-        ↓
-   MERN Stack
-        ↓
-AI-Powered Applications
-        ↓
-🚀 Full Stack Developer
-💡 What I Like Building
-🤖 AI-powered applications
-🌐 Full Stack Web Applications
-⚡ Productivity tools
-☁️ API-based applications
-🎨 Interactive user interfaces
-💻 Experimental and innovative web projects
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhan-1212s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-1212s&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=subhan-1212s&theme=tokyonight&hide_border=true" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhan-1212s&theme=tokyo-night&hide_border=true&area=true" /> </div>
-🧠 Currently Improving
-💻 Programming
-   └── JavaScript • C • C++
-
-🌐 Web Development
-   └── React • Node.js • Express • MongoDB
-
-🤖 AI
-   └── AI Integration • AI-powered Applications
-
-🧩 Problem Solving
-   └── DSA • Logical Thinking • Coding
-
-🏗️ Software Development
-   └── APIs • Git • GitHub • Project Architecture
-📫 Connect With Me
-<div align="center"> <a href="https://github.com/subhan-1212s"> <img src="https://img.shields.io/badge/GitHub-subhan--1212s-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohamedsubhan35/"> <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Subhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
 <div align="center">
-🚀 Build. Learn. Improve. Repeat.
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" width="100%"/>
 
-</div> ```
+### 🚀 Build • Learn • Improve • Repeat
+
+<sub>Thanks for visiting my profile.</sub>
+
+</div>
