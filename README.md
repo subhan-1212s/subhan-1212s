@@ -1,74 +1,99 @@
-<!-- ========================================================= -->
-<!--                  DEVELOPMENT JOURNEY                      -->
-<!-- ========================================================= -->
+<!-- ========================================================== -->
+<!--                    DEVELOPMENT JOURNEY                    -->
+<!-- ========================================================== -->
 
-<h2 align="center">🚀 My Development Journey</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+
+<br>
+
+<h2>🚀 My Development Journey</h2>
+
+<p>
+  <i>From computer science fundamentals to building modern full-stack & AI-powered applications.</i>
 </p>
 
 <br>
 
-<div align="center">
-
 <table>
 <tr>
+<td align="center" width="180">
 
-<td align="center" width="20%">
-<h3>🎓</h3>
-<b>Computer Science</b><br>
-<sub>B.Sc.</sub>
+### 🎓
+**B.Sc.**
+
+Computer Science
+
 </td>
 
-<td align="center" width="5%">→</td>
+<td align="center" width="60">➜</td>
 
-<td align="center" width="20%">
-<h3>🎓</h3>
-<b>MCA</b><br>
-<sub>Currently Pursuing</sub>
+<td align="center" width="180">
+
+### 🎓
+**MCA**
+
+Currently Pursuing
+
 </td>
 
-<td align="center" width="5%">→</td>
+<td align="center" width="60">➜</td>
 
-<td align="center" width="20%">
-<h3>🌐</h3>
-<b>Web Development</b><br>
-<sub>Modern Applications</sub>
+<td align="center" width="180">
+
+### 🌐
+**Web Development**
+
+Building for the Web
+
 </td>
 
-<td align="center" width="5%">→</td>
+<td align="center" width="60">➜</td>
 
-<td align="center" width="20%">
-<h3>⚛️</h3>
-<b>MERN Stack</b><br>
-<sub>Full Stack Development</sub>
+<td align="center" width="180">
+
+### ⚛️
+**MERN Stack**
+
+Full Stack Development
+
 </td>
 
-<td align="center" width="5%">→</td>
+<td align="center" width="60">➜</td>
 
-<td align="center" width="20%">
-<h3>🤖</h3>
-<b>AI Applications</b><br>
-<sub>Intelligent Solutions</sub>
+<td align="center" width="180">
+
+### 🤖
+**AI**
+
+Intelligent Applications
+
 </td>
-
 </tr>
 </table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
+<!-- ========================================================== -->
 <!--                     FEATURED PROJECTS                      -->
-<!-- ========================================================= -->
+<!-- ========================================================== -->
 
-<h2 align="center">🔥 Featured Projects</h2>
+<div align="center">
 
-<p align="center">
-A collection of projects where I experiment, learn, and turn ideas into working products.
+<h2>🔥 Featured Projects</h2>
+
+<p>
+  <i>Real projects. Real experimentation. Continuous improvement.</i>
 </p>
+
+</div>
 
 <br>
 
@@ -77,109 +102,129 @@ A collection of projects where I experiment, learn, and turn ideas into working 
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI Smart Auction Platform</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://placehold.co/800x450/0d1117/ffffff?text=AI+Smart+Auction+Platform" width="100%" />
-</p>
+## 🤖 AI Smart Auction
 
-<p align="center">
-An intelligent auction platform designed to bring AI-powered features into the online auction experience.
-</p>
+<img src="https://placehold.co/900x500/0d1117/58a6ff?text=AI+SMART+AUCTION" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Application-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-6f42c1?style=flat-square" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/subhan-1212s">
-    <b>View Project →</b>
-  </a>
-</p>
+**AI-powered auction platform**
+
+A modern auction experience combining web technologies with intelligent features.
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_App-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full_Stack-161b22?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/subhan-1212s">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎯 FocusFlow AI</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://placehold.co/800x450/0d1117/ffffff?text=FocusFlow+AI" width="100%" />
-</p>
+## 🎯 FocusFlow AI
 
-<p align="center">
-An AI-powered productivity concept focused on helping users stay focused and improve their digital workflow.
-</p>
+<img src="https://placehold.co/900x500/0d1117/a371f7?text=FOCUSFLOW+AI" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Productivity-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Browser%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/subhan-1212s">
-    <b>View Project →</b>
-  </a>
-</p>
+**AI-powered productivity extension**
+
+A productivity-focused browser extension designed around focus, workflow and intelligent assistance.
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Productivity-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Browser_Extension-161b22?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/subhan-1212s">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
 </tr>
+</table>
 
+<br>
+
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🖥️ Moon OS</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://placehold.co/800x450/0d1117/ffffff?text=Moon+OS" width="100%" />
-</p>
+## 🖥️ Moon OS
 
-<p align="center">
-A browser-based operating system experience combining desktop-style interaction with modern web technologies.
-</p>
+<img src="https://placehold.co/900x500/0d1117/79c0ff?text=MOON+OS" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web%20Application-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/UI%2FUX-6f42c1?style=flat-square" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/subhan-1212s">
-    <b>View Project →</b>
-  </a>
-</p>
+**Browser-based operating system**
+
+An experimental web environment that recreates an OS-style desktop experience inside the browser.
+
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/UI%2FUX-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web-161b22?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/subhan-1212s">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">☁️ Sky Cast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://placehold.co/800x450/0d1117/ffffff?text=Sky+Cast" width="100%" />
-</p>
+## ☁️ Sky Cast
 
-<p align="center">
-A clean weather application built around real-time weather information and API-based data.
-</p>
+<img src="https://placehold.co/900x500/0d1117/56d4dd?text=SKY+CAST" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/API%20Integration-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Weather-00A8E8?style=flat-square" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/subhan-1212s">
-    <b>View Project →</b>
-  </a>
-</p>
+**Modern weather application**
+
+A clean weather experience built around API-driven weather information and an intuitive interface.
+
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/API-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Weather-161b22?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/subhan-1212s">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 </td>
 
@@ -188,57 +233,71 @@ A clean weather application built around real-time weather information and API-b
 
 ---
 
-<!-- ========================================================= -->
-<!--                    ENGINEERING SKILLS                      -->
-<!-- ========================================================= -->
-
-<h2 align="center">⚙️ Engineering Skills</h2>
+<!-- ========================================================== -->
+<!--                       TECH ECOSYSTEM                       -->
+<!-- ========================================================== -->
 
 <div align="center">
+
+<h2>⚡ My Tech Ecosystem</h2>
+
+<p>
+  <i>The tools and technologies I use while building.</i>
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,git,github,vscode" />
+
+<br><br>
 
 <table>
 <tr>
 
 <td align="center" width="25%">
-<h3>🎨 Frontend</h3>
+
+### 🎨 Frontend
 
 React<br>
 JavaScript<br>
 HTML5<br>
 CSS3<br>
-Responsive UI
+Responsive Design
 
 </td>
 
 <td align="center" width="25%">
-<h3>⚙️ Backend</h3>
+
+### ⚙️ Backend
 
 Node.js<br>
 Express.js<br>
 REST APIs<br>
 Server Logic<br>
-Authentication
+API Integration
 
 </td>
 
 <td align="center" width="25%">
-<h3>🗄️ Database</h3>
+
+### 🗄️ Data
 
 MongoDB<br>
-Data Modeling<br>
 CRUD Operations<br>
+Data Modeling<br>
 Database Integration
 
 </td>
 
 <td align="center" width="25%">
-<h3>🛠️ Development</h3>
+
+### 🛠️ Tools
 
 Git<br>
 GitHub<br>
 VS Code<br>
-API Integration<br>
-Debugging
+Debugging<br>
+Development Workflow
 
 </td>
 
@@ -249,30 +308,107 @@ Debugging
 
 ---
 
-<!-- ========================================================= -->
-<!--                     CURRENT FOCUS                          -->
-<!-- ========================================================= -->
-
-<h2 align="center">🎯 Current Focus</h2>
+<!-- ========================================================== -->
+<!--                     ENGINEERING MINDSET                    -->
+<!-- ========================================================== -->
 
 <div align="center">
+
+<h2>🧠 Engineering Mindset</h2>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<h2>💭</h2>
+<b>Understand</b>
+<br>
+<sub>Break the problem down</sub>
+</td>
+
+<td width="5%" align="center">→</td>
+
+<td align="center" width="20%">
+<h2>🏗️</h2>
+<b>Design</b>
+<br>
+<sub>Plan the solution</sub>
+</td>
+
+<td width="5%" align="center">→</td>
+
+<td align="center" width="20%">
+<h2>💻</h2>
+<b>Build</b>
+<br>
+<sub>Turn ideas into code</sub>
+</td>
+
+<td width="5%" align="center">→</td>
+
+<td align="center" width="20%">
+<h2>🧪</h2>
+<b>Improve</b>
+<br>
+<sub>Test & refine</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<blockquote>
+<b>Build with purpose. Learn through experimentation. Improve continuously.</b>
+</blockquote>
+
+</div>
+
+---
+
+<!-- ========================================================== -->
+<!--                    CURRENT DIRECTION                       -->
+<!-- ========================================================== -->
+
+<div align="center">
+
+<h2>🎯 Where I'm Heading</h2>
+
+<br>
 
 <table>
 <tr>
 
 <td align="center" width="33%">
-<h3>⚛️ MERN Stack</h3>
-Building scalable and responsive full-stack applications.
+
+<h2>⚛️</h2>
+
+### MERN Engineering
+
+Building complete web applications with modern frontend, backend and database technologies.
+
 </td>
 
 <td align="center" width="33%">
-<h3>🤖 AI Integration</h3>
-Exploring practical ways to integrate AI into modern applications.
+
+<h2>🤖</h2>
+
+### AI-Powered Web
+
+Exploring practical AI integration to create smarter and more useful applications.
+
 </td>
 
 <td align="center" width="33%">
-<h3>🧩 Problem Solving</h3>
-Improving DSA, logical thinking, and software engineering skills.
+
+<h2>🏗️</h2>
+
+### Software Engineering
+
+Improving architecture, APIs, problem solving, scalability and development practices.
+
 </td>
 
 </tr>
@@ -282,52 +418,137 @@ Improving DSA, logical thinking, and software engineering skills.
 
 ---
 
-<!-- ========================================================= -->
-<!--                    WHAT I BUILD                            -->
-<!-- ========================================================= -->
-
-<h2 align="center">💡 What I Love Building</h2>
-
-<p align="center">
-
-🤖 AI-powered applications &nbsp; • &nbsp;
-🌐 Full Stack platforms &nbsp; • &nbsp;
-⚡ Productivity tools
-
-<br><br>
-
-🎨 Interactive interfaces &nbsp; • &nbsp;
-☁️ API-driven applications &nbsp; • &nbsp;
-💻 Innovative web experiences
-
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                    LEARNING ROADMAP                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">🌱 Learning & Growing</h2>
+<!-- ========================================================== -->
+<!--                    LEARNING PATH                            -->
+<!-- ========================================================== -->
 
 <div align="center">
 
-```text
-                    CURRENT
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   MERN STACK    │
-              └────────┬────────┘
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-        🤖 AI / APIs          🧩 DSA
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-                🏗️ SYSTEM DESIGN
-                       │
-                       ▼
-               🚀 FULL STACK
-                DEVELOPMENT
+<h2>🌱 My Learning Path</h2>
+
+<p>
+  <i>Always learning. Always building.</i>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20BREAK%20%E2%86%92%20FIX%20%E2%86%92%20IMPROVE&fontSize=22&height=70" width="100%"/>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<h2>01</h2>
+
+### 🧩 Fundamentals
+
+Programming<br>
+JavaScript<br>
+Problem Solving<br>
+Web Fundamentals
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>02</h2>
+
+### ⚛️ Full Stack
+
+React<br>
+Node.js<br>
+Express.js<br>
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>03</h2>
+
+### 🤖 AI Integration
+
+AI APIs<br>
+Intelligent Features<br>
+AI-powered Products<br>
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>04</h2>
+
+### 🏗️ Engineering
+
+DSA<br>
+System Design<br>
+Scalable Architecture<br>
+Clean Code
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ========================================================== -->
+<!--                     PROJECT PHILOSOPHY                      -->
+<!-- ========================================================== -->
+
+<div align="center">
+
+<h2>🚀 How I Build</h2>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=IDEA%20%E2%86%92%20DESIGN%20%E2%86%92%20CODE%20%E2%86%92%20TEST%20%E2%86%92%20SHIP&fontSize=20&fontColor=ffffff" width="100%"/>
+
+<br>
+
+<p>
+  I enjoy taking an idea from a blank screen and turning it into a working,
+  useful and polished digital product.
+</p>
+
+</div>
+
+---
+
+<!-- ========================================================== -->
+<!--                       LET'S CONNECT                         -->
+<!-- ========================================================== -->
+
+<div align="center">
+
+<h2>🤝 Let's Connect</h2>
+
+<p>
+  Interested in technology, collaboration or building something interesting?
+</p>
+
+<br>
+
+<a href="https://github.com/subhan-1212s">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/mohamedsubhan35/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=140&section=footer" width="100%"/>
+
+<h3>💻 Code • Create • Learn • Evolve 🚀</h3>
+
+</div>
